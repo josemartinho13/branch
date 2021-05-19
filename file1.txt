@@ -1,2 +1,4 @@
 ficheiro1
 fast-forward merge
+
+branch_2
